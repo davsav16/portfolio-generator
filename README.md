@@ -2,8 +2,6 @@
 
 ## In this project I created an app that can be used to dynamically create a portfolio website with links to GitHub, by just using the command line to take user input and then dynamically create the site.
  
- ## To use this site 
- 
  ## Created using:
  - Node
  - JavaScript
